@@ -1,5 +1,5 @@
 # LookUp
-LookUp is an astronomy-based app that allows the user to use their browser location at a chosen date and time to see a list of planetary objects that will be above them. Each search result includes a corresponding photo of the body from NASA Images.
+LookUp is an astronomy-based app that allows the user to use their browser location at a chosen date and time to see a list of planetary objects that will be above them. Each search result includes a corresponding photo from NASA Images.
 
 ## User Story
 AS A novice astronomer<br>
